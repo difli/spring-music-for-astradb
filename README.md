@@ -1,6 +1,6 @@
 # spring-music-for-astradb
 
-This is a application to demo astra db. It is based on [spring-music](https://github.com/cloudfoundry-samples/spring-music). 
+This is an application to demo astra db. It is based on [spring-music](https://github.com/cloudfoundry-samples/spring-music). 
 
 ## Quickstart
 - create a [free astra db account](https://astra.datastax.com)
