@@ -51,5 +51,5 @@ dependencies {
 jar {
     archiveBaseName = "spring-music"
 }
-
+bootRun.systemProperties = System.properties
 sourceCompatibility = 11
