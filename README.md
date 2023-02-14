@@ -12,9 +12,9 @@ This is an application to demo astra db. It is based on [spring-music](https://g
 ```
 git clone https://github.com/difli/spring-music-for-astradb.git
 ```
-- cd in folder 'spring-music-for-astra-db'
+- cd in folder 'spring-music-for-astradb'
 ```
-cd spring-music-for-astra-db
+cd spring-music-for-astradb
 ```
 - run application and inject [credentials](https://github.com/difli/spring-music-for-astradb/blob/main/src/main/resources/application.yml#L16-L19) to access your astra db instance via env variables.
 ```
